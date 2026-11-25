@@ -1,0 +1,14 @@
+{
+  "name": "invest-eli5-academy",
+  "version": "1.0.0",
+  "description": "零基础投资冒险学院 —— 用 ELI5 大白话与交互实验，从金融小白成长为股票、基金、ETF 与宏观市场分析能手",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
